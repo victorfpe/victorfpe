@@ -20,15 +20,14 @@
 
 <samp>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+I'm+from+Brazil+%7C+Software+Engineering+Student+%7C+Welcome+to+my+GitHub!)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+Software+Engineering+Student+%7C+Welcome+to+my+GitHub!)
 </samp>
 
 
 # `< VICTOR F />`
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEERING+STUDENT)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEERING)
 
 
 </div>
