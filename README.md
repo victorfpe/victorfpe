@@ -114,3 +114,10 @@
 
 </div>
 
+<!-- ============================== -->
+<!--            FOOTER              -->
+<!-- ============================== -->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:000000,100:8A2BE2&section=footer&reversal=true"/>
+
