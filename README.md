@@ -63,7 +63,7 @@
 
 <img src="https://skillicons.dev/icons?i=c,java,js,html,css&theme=dark&perline=6" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=github,vscode,figma,linux,windows&theme=dark&perline=6" height="55"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,linux,windows&theme=dark&perline=6" height="55"/>
 
 </div>
 
