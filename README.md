@@ -78,11 +78,11 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=0D1117)](mailto:SEU@EMAIL.COM)
+[![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=0D1117)](VictoF:barra-victor@hotmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=8A2BE2&labelColor=0D1117)](https://instagram.com/SEU_INSTAGRAM)
 [![Reddit](https://img.shields.io/badge/REDDIT-0D1117?style=for-the-badge&logo=reddit&logoColor=8A2BE2&labelColor=0D1117)](https://reddit.com/u/SEU_REDDIT)
-[![Discord](https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=8A2BE2&labelColor=0D1117)](https://discord.gg/SEU_DISCORD)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&labelColor=0D1117)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Discord](https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=8A2BE2&labelColor=0D1117)](https://discord.gg/611003396832493568)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&labelColor=0D1117)](https://linkedin.com/in/victor-felipe-744743426)
 
 </div>
 
