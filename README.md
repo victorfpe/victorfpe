@@ -5,3 +5,7 @@
 </a>
 
 </div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=victorfpe&left_text=visitors&left_color=%230D1117&right_color=%230D1117&format=true&logo=github&radius=0" alt="visitor badge"/>
+</div>
